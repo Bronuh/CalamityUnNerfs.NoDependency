@@ -4,7 +4,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace CalamityFly.UnNerfs;
+namespace CalamityUnNerfs.UnNerfs;
 
 public class TooltipEditor : GlobalItem {
     public override void ModifyTooltips(Item item, List<TooltipLine> tooltips) {

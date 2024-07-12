@@ -1,8 +1,8 @@
-﻿using CalamityFly.Config;
-using CalamityFly.Helpers;
+﻿using CalamityUnNerfs.Config;
+using CalamityUnNerfs.Helpers;
 using Terraria.ID;
 
-namespace CalamityFly.UnNerfs;
+namespace CalamityUnNerfs.UnNerfs;
 
 internal class RodOfDiscord : BaseUnNerf {
     public override bool Active(UnNerfsConfig config) => config.RodOfDiscord;

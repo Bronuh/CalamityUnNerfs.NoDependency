@@ -2,7 +2,7 @@
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace CalamityFly.UnNerfs;
+namespace CalamityUnNerfs.UnNerfs;
 
 internal class MagicPowerPotion : GlobalBuff {
     public override bool IsLoadingEnabled(Mod mod) => CalamityFly.config.MagicPowerPotion;

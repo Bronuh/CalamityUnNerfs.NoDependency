@@ -1,10 +1,10 @@
 using System.Collections.Generic;
-using CalamityFly.Config;
-using CalamityFly.UnNerfs;
+using CalamityUnNerfs.Config;
+using CalamityUnNerfs.UnNerfs;
+using CalamityUnNerfs.VanillaQoL;
 using Terraria.ModLoader;
-using VanillaQoL;
 
-namespace CalamityFly;
+namespace CalamityUnNerfs;
 
 public class CalamityFly : Mod {
 

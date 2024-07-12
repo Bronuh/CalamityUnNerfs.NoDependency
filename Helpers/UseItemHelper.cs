@@ -4,7 +4,7 @@ using MonoMod.Cil;
 using System;
 using System.Collections.Generic;
 
-namespace CalamityFly.Helpers;
+namespace CalamityUnNerfs.Helpers;
 
 internal static class UseItemHelper
 {

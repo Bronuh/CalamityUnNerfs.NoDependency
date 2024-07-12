@@ -1,11 +1,11 @@
 ﻿using System.Reflection;
-using CalamityFly.Config;
 using CalamityMod.CalPlayer;
+using CalamityUnNerfs.Config;
 using MonoMod.Cil;
 using Terraria;
 using Terraria.ModLoader;
 
-namespace CalamityFly.UnNerfs;
+namespace CalamityUnNerfs.UnNerfs;
 
 internal class DamageReductionCap : BaseUnNerf {
     public override bool Active(UnNerfsConfig config) {

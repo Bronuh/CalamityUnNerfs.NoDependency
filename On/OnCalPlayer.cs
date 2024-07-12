@@ -3,7 +3,7 @@ using Terraria;
 using Terraria.ModLoader;
 using OrigCalPlayer = CalamityMod.CalPlayer.CalamityPlayer;
 
-namespace CalamityFly.On;
+namespace CalamityUnNerfs.On;
 
 public static class OnCalPlayer
 {

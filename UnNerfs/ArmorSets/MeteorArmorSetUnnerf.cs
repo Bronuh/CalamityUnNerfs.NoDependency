@@ -1,10 +1,10 @@
-﻿using CalamityFly.Config;
-using CalamityFly.IL;
-using CalamityMod.CalPlayer;
+﻿using CalamityMod.CalPlayer;
+using CalamityUnNerfs.Config;
+using CalamityUnNerfs.IL;
 using Mono.Cecil.Cil;
 using MonoMod.Cil;
 
-namespace CalamityFly.UnNerfs.ArmorSets;
+namespace CalamityUnNerfs.UnNerfs.ArmorSets;
 
 internal class MeteorArmorSetUnnerf : BaseUnNerf
 {

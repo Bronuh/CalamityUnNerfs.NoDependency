@@ -1,12 +1,12 @@
-﻿using CalamityFly.Config;
-using CalamityMod.Projectiles;
+﻿using CalamityMod.Projectiles;
+using CalamityUnNerfs.Config;
 using Mono.Cecil.Cil;
 using MonoMod.Cil;
 using Terraria;
 using Terraria.ModLoader;
 using Terraria.Social.Steam;
 
-namespace CalamityFly.UnNerfs;
+namespace CalamityUnNerfs.UnNerfs;
 
 internal class YoyoBag : BaseUnNerf
 {

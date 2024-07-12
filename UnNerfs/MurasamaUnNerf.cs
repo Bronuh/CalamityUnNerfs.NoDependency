@@ -1,10 +1,10 @@
-using CalamityFly.Config;
 using CalamityMod.Items.Weapons.Melee;
 using CalamityMod.Projectiles.Melee;
+using CalamityUnNerfs.Config;
 using Terraria;
 using Terraria.ModLoader;
 
-namespace CalamityFly.UnNerfs;
+namespace CalamityUnNerfs.UnNerfs;
 
 public class MurasamaUnNerf : GlobalItem {
     public override bool IsLoadingEnabled(Mod mod) {

@@ -1,13 +1,13 @@
-﻿using CalamityFly.Config;
-using CalamityFly.IL;
-using CalamityMod;
+﻿using CalamityMod;
 using Mono.Cecil.Cil;
 using MonoMod.Cil;
 using System;
 using CalamityMod.Balancing;
+using CalamityUnNerfs.Config;
+using CalamityUnNerfs.IL;
 using Terraria;
 
-namespace CalamityFly.UnNerfs;
+namespace CalamityUnNerfs.UnNerfs;
 
 internal class SummonDamage : BaseUnNerf
 {

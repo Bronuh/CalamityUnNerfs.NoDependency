@@ -1,9 +1,9 @@
-﻿using CalamityFly.Config;
+﻿using CalamityUnNerfs.Config;
 using Mono.Cecil.Cil;
 using MonoMod.Cil;
 using Terraria;
 
-namespace CalamityFly.UnNerfs;
+namespace CalamityUnNerfs.UnNerfs;
 
 public class SoaringInsigniaFlight : BaseUnNerf {
     public override void Apply() {

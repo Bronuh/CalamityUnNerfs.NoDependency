@@ -1,15 +1,15 @@
 using System.Reflection;
-using CalamityFly.Config;
 using CalamityMod;
 using CalamityMod.Items;
 using CalamityMod.Items.Weapons.DraedonsArsenal;
 using CalamityMod.Projectiles.DraedonsArsenal;
 using CalamityMod.Projectiles.Ranged;
+using CalamityUnNerfs.Config;
 using MonoMod.Cil;
 using Terraria;
 using Terraria.ModLoader;
 
-namespace CalamityFly.UnNerfs;
+namespace CalamityUnNerfs.UnNerfs;
 
 public class RemoveCharge : GlobalItem {
     public override bool IsLoadingEnabled(Mod mod) {

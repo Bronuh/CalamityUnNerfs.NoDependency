@@ -2,7 +2,7 @@
 using Terraria.ModLoader;
 using Terraria.ID;
 
-namespace CalamityFly.UnNerfs;
+namespace CalamityUnNerfs.UnNerfs;
 
 internal class WormScarf : GlobalItem {
     public override bool IsLoadingEnabled(Mod mod) => CalamityFly.config.WormScarf;

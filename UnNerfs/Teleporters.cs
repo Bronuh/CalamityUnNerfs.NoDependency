@@ -1,11 +1,11 @@
-﻿using CalamityFly.Config;
+﻿using CalamityUnNerfs.Config;
 using CalamityMod.ILEditing;
 using MonoMod.RuntimeDetour.HookGen;
 using System.Reflection;
 using System;
 using Terraria;
 
-namespace CalamityFly.UnNerfs;
+namespace CalamityUnNerfs.UnNerfs;
 /*
 internal class Teleporters : BaseUnNerf
 {

@@ -1,8 +1,8 @@
-﻿using CalamityFly.Config;
-using CalamityFly.On;
-using CalamityMod.CalPlayer;
+﻿using CalamityMod.CalPlayer;
+using CalamityUnNerfs.Config;
+using CalamityUnNerfs.On;
 
-namespace CalamityFly.UnNerfs;
+namespace CalamityUnNerfs.UnNerfs;
 
 public class DefenseDamage : BaseUnNerf {
     public override bool Active(UnNerfsConfig config) => config.DefenseDamage;

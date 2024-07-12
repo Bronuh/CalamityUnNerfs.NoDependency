@@ -1,8 +1,8 @@
-﻿using CalamityFly.Config;
+﻿using CalamityUnNerfs.Config;
 using MonoMod.Cil;
 using Terraria;
 
-namespace CalamityFly.UnNerfs;
+namespace CalamityUnNerfs.UnNerfs;
 
 internal class SoaringInsigniaMovement : BaseUnNerf
 {

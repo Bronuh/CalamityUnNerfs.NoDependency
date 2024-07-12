@@ -109,4 +109,105 @@ Mods: {
 			}
 		}
 	}
+
+	CalamityUnNerfs: {
+		Configs: {
+			UnNerfsConfig: {
+				DisplayName: Un Nerfs Config
+
+				Headers: {
+					reverts: reverts Header
+					unnerfs: unnerfs Header
+					defenseDamage: defense Damage Header
+					armorSetUnnerfs: armor Set Unnerfs Header
+					crafts: crafts Header
+				}
+
+				sellAdditionalItems: {
+					Label: sell Additional Items
+					Tooltip: ""
+				}
+
+				murasamaUnnerf: {
+					Label: murasama Unnerf
+					Tooltip: ""
+				}
+
+				SoaringInsigniaFlight: {
+					Label: Soaring Insignia Flight
+					Tooltip: ""
+				}
+
+				SoaringInsigniaMovement: {
+					Label: Soaring Insignia Movement
+					Tooltip: ""
+				}
+
+				RodOfDiscord: {
+					Label: Rod Of Discord
+					Tooltip: ""
+				}
+
+				YoyoBag: {
+					Label: Yoyo Bag
+					Tooltip: ""
+				}
+
+				removeCharge: {
+					Label: remove Charge
+					Tooltip: ""
+				}
+
+				mountSpeed: {
+					Label: mount Speed
+					Tooltip: ""
+				}
+
+				DefenseDamage: {
+					Label: Defense Damage
+					Tooltip: ""
+				}
+
+				SummonDamage: {
+					Label: Summon Damage
+					Tooltip: ""
+				}
+
+				DamageReductionCap: {
+					Label: Damage Reduction Cap
+					Tooltip: ""
+				}
+
+				WormScarf: {
+					Label: Worm Scarf
+					Tooltip: ""
+				}
+
+				MagicPowerPotion: {
+					Label: Magic Power Potion
+					Tooltip: ""
+				}
+
+				FrozenTurtleShell: {
+					Label: Frozen Turtle Shell
+					Tooltip: ""
+				}
+
+				DodgeItems: {
+					Label: Dodge Items
+					Tooltip: ""
+				}
+
+				MeteorArmorSet: {
+					Label: Meteor Armor Set
+					Tooltip: ""
+				}
+
+				VanillaZenithCraft: {
+					Label: Vanilla Zenith Craft
+					Tooltip: ""
+				}
+			}
+		}
+	}
 }

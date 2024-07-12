@@ -1,8 +1,8 @@
 ﻿using System.ComponentModel;
+using CalamityUnNerfs.VanillaQoL.Shared;
 using Terraria.ModLoader.Config;
-using VanillaQoL.Shared;
 
-namespace CalamityFly.Config;
+namespace CalamityUnNerfs.Config;
 
 public class UnNerfsConfig : ModConfig {
 

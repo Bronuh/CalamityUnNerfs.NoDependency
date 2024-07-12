@@ -1,12 +1,12 @@
 ﻿using System.Reflection;
-using CalamityFly.Config;
 using CalamityMod.CalPlayer;
+using CalamityUnNerfs.Config;
 using Mono.Cecil.Cil;
 using MonoMod.Cil;
 using Terraria;
 using Terraria.ModLoader;
 
-namespace CalamityFly.UnNerfs;
+namespace CalamityUnNerfs.UnNerfs;
 
 internal class DodgeItems : BaseUnNerf {
     public override bool Active(UnNerfsConfig config) => config.DodgeItems;

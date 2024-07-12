@@ -1,8 +1,8 @@
 ﻿using System;
-using CalamityFly.Config;
+using CalamityUnNerfs.Config;
 using Terraria.ModLoader;
 
-namespace CalamityFly.UnNerfs;
+namespace CalamityUnNerfs.UnNerfs;
 
 public abstract class BaseUnNerf {
 

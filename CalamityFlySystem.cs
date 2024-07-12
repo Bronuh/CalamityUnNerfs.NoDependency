@@ -2,7 +2,7 @@
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace CalamityFly; 
+namespace CalamityUnNerfs; 
 
 public class CalamityFlySystem : ModSystem {
     public override void AddRecipes()

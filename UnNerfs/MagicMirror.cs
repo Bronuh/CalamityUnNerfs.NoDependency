@@ -1,9 +1,9 @@
-﻿using CalamityFly.Config;
-using CalamityFly.Helpers;
+﻿using CalamityUnNerfs.Config;
+using CalamityUnNerfs.Helpers;
 using System.Collections.Generic;
 using Terraria.ID;
 
-namespace CalamityFly.UnNerfs;
+namespace CalamityUnNerfs.UnNerfs;
 /*
 internal class MagicMirror : BaseUnNerf
 {
